@@ -1,15 +1,21 @@
 # conversor_de_moedas
 
-A new Flutter project.
+My third Flutter project.
 
-## Getting Started
+This simple app serves to convert one currency into another based on data consumed via API and learn
+more about Flutter. It's my third app made with Flutter. I used the knowledge acquired in previous
+projects ([contador_de_pessoas](https://github.com/henriqueparaguassu/contador_de_pessoas)
+, [calculadora_imc](https://github.com/henriqueparaguassu/calculadora_imc)) and took the opportunity
+to learn more about: http requests with Dart, the Future type, the FutureBuilder widget, a little
+about creating a theme and I went deeper into previous widgets.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="screenshots/img1.jpeg" width="300" />
+<img src="screenshots/img2.jpeg" width="300" />
+<img src="screenshots/img3.jpeg" width="300" />
+
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
